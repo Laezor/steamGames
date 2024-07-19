@@ -46,6 +46,14 @@ Welcome to the Steam Game Save Backup project! This tool helps you automate the 
     custom_ubisoft_path=
     ```
     The other values should already be filled up.
+    ```
+    # DO NOT CHANGE THESE PATHS ARE PREDEFINED
+    path_to_game=\steamapps\common
+    steam_path64=C:\Program Files (x86)\Steam
+    steam_path32=C:\Program Files\Steam
+    ubisoft_connect_path64=C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher
+    ubisoft_connect_path32=C:\Program Files\Ubisoft\Ubisoft Game Launcher
+    ```
 
 ## Usage
 
